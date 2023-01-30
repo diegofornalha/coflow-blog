@@ -26,9 +26,7 @@ featuredImage:
   height: 450
 media:
   type: ImageBlock
-  url: >-
-    /images/capas/Protocolo de staking líquido (STFLOW) da Increment - Diego
-    Fornalha.png
+  url: /images/CAPAS-Protocolo de staking líquido (STFLOW) da Increment.png
   altText: Protocolo de staking líquido (STFLOW) da Increment
   caption: >-
     A Increment lançou um protocolo de estacas líquidas no Flow que permite aos
