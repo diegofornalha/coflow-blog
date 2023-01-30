@@ -14,9 +14,7 @@ excerpt: >-
   investir.
 featuredImage:
   type: ImageBlock
-  url: >-
-    /images/capas/Por que investir em flow agora pode ser a decisão certa
-    diegofornalha.png
+  url: /images/CAPAS-Por que investir em flow agora pode ser a decisão certa.png
   caption: >-
     O flow_blockchain é uma plataforma de tecnologia de blockchain promissora
     que pode oferecer muitos benefícios para aqueles que investem nela,
@@ -29,9 +27,7 @@ featuredImage:
   height: 450
 media:
   type: ImageBlock
-  url: >-
-    /images/capas/Por que investir em flow agora pode ser a decisão certa
-    diegofornalha.png
+  url: /images/CAPAS-Por que investir em flow agora pode ser a decisão certa.png
   altText: Por que investir em flow agora pode ser a decisão certa
   caption: >-
     O flow_blockchain é uma plataforma de tecnologia de blockchain promissora

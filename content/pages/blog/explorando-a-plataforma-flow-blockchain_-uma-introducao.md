@@ -11,18 +11,14 @@ excerpt: Unindo forças para construir o Metaverse
 excerptFr: Unindo forças para construir o Metaverse
 featuredImage:
   type: ImageBlock
-  url: >-
-    /images/capas/Unindo forças para construir o Metaverse Diego Fornalha
-    Coflow.png
+  url: /images/CAPAS-Animoca MotoGP e StarGirl chegam ao Flow com muito estilo.png
   altText: Unindo forças para construir o Metaverse
   caption: Unindo forças para construir o Metaverse
   width: 800
   height: 450
 media:
   type: ImageBlock
-  url: >-
-    /images/capas/Unindo forças para construir o Metaverse Diego Fornalha
-    Coflow.png
+  url: /images/CAPAS-Animoca MotoGP e StarGirl chegam ao Flow com muito estilo.png
   altText: Unindo forças para construir o Metaverse
   caption: Unindo forças para construir o Metaverse
   width: 800

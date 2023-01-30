@@ -21,7 +21,7 @@ excerpt: >-
   plataformas blockchain, como a Ethereum e a Solana.
 featuredImage:
   type: ImageBlock
-  url: /images/capas/Portto e Flow Blockchain diego fornalha.png
+  url: /images/Portto e Flow Blockchain diego fornalha.png
   altText: Portto e Flow Blockchain
   caption: >-
     A Porto, uma empresa de carteiras de criptomoeda, anunciou uma parceria com
@@ -40,7 +40,7 @@ featuredImage:
   height: 450
 media:
   type: ImageBlock
-  url: /images/capas/Portto e Flow Blockchain diego fornalha.png
+  url: /images/Portto e Flow Blockchain diego fornalha.png
   altText: Portto e Flow Blockchain
   caption: >-
     A Porto, uma empresa de carteiras de criptomoeda, anunciou uma parceria com

@@ -23,7 +23,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: >-
-    /images/capas/Versão beta aberta do nó de arquivo da comunidade Flow
+    /images/Versão beta aberta do nó de arquivo da comunidade Flow
     Diegofornalha.png
   altText: Versão beta aberta do nó de arquivo da comunidade Flow
   caption: >-
@@ -45,7 +45,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: >-
-    /images/capas/Versão beta aberta do nó de arquivo da comunidade Flow
+    /images/Versão beta aberta do nó de arquivo da comunidade Flow
     Diegofornalha.png
   altText: Versão beta aberta do nó de arquivo da comunidade Flow
   caption: >-
