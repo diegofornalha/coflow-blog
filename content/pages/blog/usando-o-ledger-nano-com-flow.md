@@ -21,7 +21,7 @@ excerpt: >-
   usar dApps compatíveis com o Flow.
 featuredImage:
   type: ImageBlock
-  url: /images/capas/Usando o Ledger Nano com Flow Diego Fornalha.png
+  url: /images/Usando o Ledger Nano com Flow Diego Fornalha.png
   altText: Usando o Ledger Nano com Flow
   caption: >-
     O aplicativo Flow é um software que permite aos usuários armazenar e acessar
