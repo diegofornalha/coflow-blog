@@ -21,7 +21,7 @@ excerpt: >-
   individualidade.
 featuredImage:
   type: ImageBlock
-  url: /images/capas/Sendo um Criador Web3 na Flow Blockchain Diego Fornalha.png
+  url: /images/Sendo um Criador Web3 na Flow Blockchain Diego Fornalha.png
   altText: Sendo um Criador Web3 na Flow Blockchain
   caption: >-
     O objetivo da Dapper Labs é usar a tecnologia descentralizada,
