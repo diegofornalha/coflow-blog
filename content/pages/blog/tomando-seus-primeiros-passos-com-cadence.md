@@ -19,7 +19,7 @@ excerpt: >-
   para aqueles que desejam aprender mais sobre a tecnologia.
 featuredImage:
   type: ImageBlock
-  url: /images/capas/Tomando seus primeiros passos com Cadence diegofornalha.png
+  url: /images/Uma retrospectiva da Copa Cadence diegofornalha-431bdf34.png
   altText: Tomando seus primeiros passos com Cadence
   caption: >-
     O Flow é uma blockchain projetada para ser rápida, descentralizada e
