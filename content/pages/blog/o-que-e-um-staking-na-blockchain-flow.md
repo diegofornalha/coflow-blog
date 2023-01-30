@@ -42,7 +42,7 @@ featuredImage:
   height: 450
 media:
   type: ImageBlock
-  url: /images/capas/diegofornalha staking flow blockchain.png
+  url: /images/CAPAS-O que é um STAKING na blockchain flow.png
   altText: Post image
   width: 800
   height: 450
