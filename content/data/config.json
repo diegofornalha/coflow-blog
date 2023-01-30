@@ -1,0 +1,52 @@
+{
+    "type": "Config",
+    "header": {
+        "headerVariant": "variant-b",
+        "isSticky": true,
+        "primaryColors": "colors-b",
+        "secondaryColors": "colors-d",
+        "isTitleVisible": false,
+        "primaryLinks": [],
+        "secondaryLinks": [
+            {
+                "type": "Button",
+                "label": "Comprar Agora",
+                "altText": "Comprar Agora",
+                "style": "secondary",
+                "url": "https://discord.com/invite/hT8EpC5mUN",
+                "showIcon": true,
+                "icon": "cart",
+                "iconPosition": "right",
+                "elementId": ""
+            }
+        ],
+        "styles": {
+            "self": {
+                "width": "wide",
+                "padding": [
+                    "pl-5",
+                    "pt-5",
+                    "pb-5",
+                    "pr-5"
+                ]
+            }
+        },
+        "logo": {
+            "type": "ImageBlock",
+            "url": "/images/padrao/flow-coflow-logo.png",
+            "altText": "CoFlow Logo",
+            "caption": "CoFlow",
+            "width": 114,
+            "height": 48,
+            "elementId": ""
+        },
+        "title": "CoFlow"
+    },
+    "defaultMetaTags": [
+        {
+            "type": "MetaTag",
+            "property": "og:title",
+            "content": "CoFlow"
+        }
+    ]
+}
