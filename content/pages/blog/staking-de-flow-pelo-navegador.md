@@ -26,7 +26,7 @@ featuredImage:
   height: 450
 media:
   type: ImageBlock
-  url: /images/capas/Staking de Flow pelo Navegador Diego Fornalha.png
+  url: /images/Staking de Flow pelo Navegador Diego Fornalha.png
   altText: Staking de Flow pelo Navegador
   caption: >-
     O Flow é um blockchain construído para a próxima geração de aplicativos,
