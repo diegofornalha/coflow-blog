@@ -3,7 +3,6 @@ layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
 metaTags: []
-title: This is a blog post title
 titlePt: Titre de blog
 colors: colors-d
 date: '2023-01-28'
