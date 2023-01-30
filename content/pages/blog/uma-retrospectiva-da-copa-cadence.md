@@ -18,7 +18,7 @@ excerpt: >-
   e as submissões dos participantes.
 featuredImage:
   type: ImageBlock
-  url: /images/capas/Uma retrospectiva da Copa Cadence diegofornalha.png
+  url: /images/Uma retrospectiva da Copa Cadence diegofornalha.png
   altText: Uma retrospectiva da Copa Cadence
   caption: >-
     A Cadence Cup foi uma série de desafios que incentivavam os participantes a
