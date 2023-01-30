@@ -22,9 +22,7 @@ excerpt: >-
   de informações de token.
 featuredImage:
   type: ImageBlock
-  url: >-
-    /images/capas/Sobre a atualização padrão do token Flow FT & NFT
-    diegofornalha.png
+  url: /images/Sobre a atualização padrão do token Flow FT & NFT diegofornalha.png
   altText: Sobre a atualização padrão do token Flow FT & NFT
   caption: ''
   width: 800
