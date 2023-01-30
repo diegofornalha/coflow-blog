@@ -16,7 +16,7 @@ export default function LocaleSelector() {
     const handleChange = (event: SelectChangeEvent) => {
         setLanguage(event.target.value as string);
     };
-    
+
     return (
         <div>
             <FormControl size="small" fullWidth>
