@@ -22,7 +22,7 @@ excerpt: >-
   rede.
 featuredImage:
   type: ImageBlock
-  url: /images/capas/diegofornalha staking flow blockchain.png
+  url: /images/CAPAS-O que é um STAKING na blockchain flow.png
   altText: O que é um STAKING na blockchain flow?
   caption: >-
     O staking é um processo utilizado em redes descentralizadas para incentivar
