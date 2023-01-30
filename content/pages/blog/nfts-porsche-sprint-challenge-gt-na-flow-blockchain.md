@@ -65,7 +65,6 @@ bottomSections: []
 metaDescription: null
 socialImage: null
 author: content/data/team/hilary-ouse.json
-titlePt: por
 ---
 [![](https://assets-global.website-files.com/618c953e65cc2ba3f44d1a02/62f3a4d539ce35f793e2cb40\_62396217155a4b545e98da8a_NFTco_PorscheLMG_Banner.png)](https://assets-global.website-files.com/618c953e65cc2ba3f44d1a02/62f3a4d539ce35f793e2cb40\_62396217155a4b545e98da8a_NFTco_PorscheLMG_Banner.png)
 
