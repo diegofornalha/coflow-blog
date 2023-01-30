@@ -34,7 +34,7 @@ featuredImage:
   height: 450
 media:
   type: ImageBlock
-  url: /images/capas/Programação orientada a recursos Diego Fornalha.png
+  url: /images/Programação orientada a recursos Diego Fornalha.png
   altText: Programação orientada a recursos
   caption: >-
     O Cadence é uma linguagem de programação orientada a recursos de alto nível
