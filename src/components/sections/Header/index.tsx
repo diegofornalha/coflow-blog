@@ -208,10 +208,10 @@ function ListOfLinks({ links, inMobileMenu }) {
     return links.map((link, index) => (
         <li key={index}>
             {link.dropdownLinks ? (
-                <DropdownLink {...link} inMobileMenu={inMobileMenu} data-sb-field-path={`.${index}`}/>
+                <DropdownLink {...link} inMobileMenu={inMobileMenu} data-sb-field-path={`.${index}`} />
             ) : (
-                <Action {...link} className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />      
-            )}
+                    <Action {...link} className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
+                )}
         </li>
     ));
 }
