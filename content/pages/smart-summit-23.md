@@ -50,7 +50,8 @@ sections:
       world of technology with Flow!
 
 
-      **Agenda**
+
+      ![](https://bafkreihbpprfkhar5jbq6imnzjb3hcekkfmcxzpr5igzeve2l3z6msf65y.ipfs.nftstorage.link/)
 
 
       Web3 Experience Environment
