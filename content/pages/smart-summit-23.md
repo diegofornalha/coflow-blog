@@ -15,8 +15,13 @@ sections:
       Come have fun and enhance your development skills with us at the Flow
       Integration Workshop at the Rio Smart Summit! This is an amazing event for
       national dev's, two days of learning and networking with representatives
-      and ambassadors of Flow. On day 1, you'll be able to enjoy a complete
-      immersion in technology and learn everything about Flow implementation.
+      and ambassadors of Flow.&#x20;
+
+
+      On day 1, you'll be able to enjoy a complete immersion in technology and
+      learn everything about Flow implementation.
+
+
 
       Then it's just a matter of putting your hands to work and creating an
       incredible project for a DEMO DAY that will take place on the 20th, where
@@ -42,7 +47,6 @@ sections:
 
       Don't miss this opportunity and come join us for an amazing journey in the
       world of technology with Flow!
-
 
 
       Website: [smartsummit.com.br](smartsummit.com.br)
