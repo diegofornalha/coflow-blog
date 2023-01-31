@@ -32,7 +32,6 @@ sections:
       No problem!
 
 
-
       But wait, there's more:
 
       If you stand out at the Workshop, you have more chances to participate and
@@ -41,6 +40,7 @@ sections:
 
       The Workshop and activities at the Rio Smart Summit will prepare you for
       our hackathon that will take place from February 10th to 26th!
+
 
       Who knows, maybe your project can be the next one to win the award for the
       best mobile device experience or the Extend the Ecosystem award?
