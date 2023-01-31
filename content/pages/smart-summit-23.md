@@ -38,7 +38,7 @@ sections:
 
       Don't miss this opportunity and come join us for an amazing journey in the
       tech world with Flow!
-    textPt: >+
+    textPt: >
       Vem se divertir e aprimorar suas habilidades de desenvolvimento com a
       gente no Workshop de Integração da Flow no Rio! Este é um evento incrível
       para os dev's nacionais, com uma semana inteira de aprendizado e
@@ -49,12 +49,10 @@ sections:
       espetaculares como 300USDC na premiação principal.
 
 
-
       **E aí, você quer participar apenas da DEMO DAY?**
 
 
       Sem problema, o conteúdo do dia 1º será disponibilizado online!
-
 
 
       Mas espera, tem mais: se você se destacar no Workshop, você pode
@@ -64,10 +62,11 @@ sections:
       o prêmio de "Estenda o Ecossistema"?
 
 
-
       Não perca esta oportunidade e venha se juntar a nós para uma jornada
       incrível no mundo da tecnologia com a Flow!
 
+
+      Site: [smartsummit.com.br](smartsummit.com.br)
     styles:
       self:
         height: auto
