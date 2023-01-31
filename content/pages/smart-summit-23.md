@@ -12,7 +12,7 @@ sections:
     variant: variant-a
     title: 'Smart Summit '
     titlePt: 'Smart Summit '
-    text: >+
+    text: >
       Join the fun and sharpen your development skills with us at the Flow
       Integration Workshop in Rio! This is an amazing event for national dev's,
       with a whole week of learning and networking with Flow representatives and
@@ -25,8 +25,7 @@ sections:
       300USDC in the main award.
 
 
-
-      **And what if you only want to participate in the DEMO DAY?**&#x20;
+      **And what if you only want to participate in the DEMO DAY?**
 
 
       No problem, the content from day 1 will be made available online!
@@ -38,10 +37,8 @@ sections:
       Ecosystem" award?
 
 
-
       Don't miss this opportunity and come join us for an amazing journey in the
       tech world with Flow!
-
     textPt: Commencez par ajoutez des sections en clickant sur le boutton +.
     styles:
       self:
