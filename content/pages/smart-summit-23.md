@@ -12,6 +12,10 @@ sections:
     variant: variant-a
     title: Join the Flow Integration Workshop in Rio Smart Summit
     text: >
+
+      ![](https://nftstorage.link/ipfs/bafybeiachfkdsrgb4j5cj7cegwgrqqncef36vpfclltda5cpkc3kw5tmba)
+
+
       Come have fun and enhance your development skills with us at the Flow
       Integration Workshop at the Rio Smart Summit! This is an amazing event for
       national dev's, two days of learning and networking with representatives
@@ -48,7 +52,6 @@ sections:
 
       Don't miss this opportunity and come join us for an amazing journey in the
       world of technology with Flow!
-
 
 
       ![](https://bafkreihbpprfkhar5jbq6imnzjb3hcekkfmcxzpr5igzeve2l3z6msf65y.ipfs.nftstorage.link/)
