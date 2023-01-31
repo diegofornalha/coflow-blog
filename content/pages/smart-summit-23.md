@@ -43,26 +43,36 @@ sections:
       Site: [smartsummit.com.br](smartsummit.com.br)
     textPt: >
       Vem se divertir e aprimorar suas habilidades de desenvolvimento com a
-      gente no Workshop de Integração da Flow no Rio! Este é um evento incrível
-      para os dev's nacionais, com uma semana inteira de aprendizado e
-      networking com representantes e embaixadores da Flow. No dia 1º você vai
-      poder curtir uma imersão completa na tecnologia e aprender tudo sobre
-      implementação do Flow. Depois é só colocar a mão na massa e criar um
-      projeto incrível para a DEMO DAY no dia 20, onde você pode ganhar prêmios
-      espetaculares como 300USDC na premiação principal.
+      gente no Workshop de Integração da Flow no Rio Smart Summit! Este é um
+      evento incrível para os dev's nacionais, são dois dias de evento de muito
+      aprendizado e networking com representantes e embaixadores da Flow. No dia
+      1º você vai poder curtir uma imersão completa na tecnologia e aprender
+      tudo sobre implementação do Flow.&#x20;
+
+
+      Depois é só colocar a mão na massa e criar um projeto incrível para um
+      DEMO DAY que acontecerá dia 20, onde você pode ganhar prêmios
+      espetaculares.
 
 
       **E aí, você quer participar apenas da DEMO DAY?**
 
 
-      Sem problema, o conteúdo do dia 1º será disponibilizado online!
+      Sem problema!
 
 
-      Mas espera, tem mais: se você se destacar no Workshop, você pode
-      participar do Hackathon Global do Flow, com premiações totais de mais de
-      US$ 100.000, de 10 a 26 de fevereiro! Quem sabe seu projeto não pode ser o
-      próximo a ganhar o prêmio de melhor experiência em dispositivos móveis ou
-      o prêmio de "Estenda o Ecossistema"?
+      Mas espera, tem mais:&#x20;
+
+
+      Se você se destacar no Workshop, você tem mais chances participar e ganhar
+      o Hackathon Global da Flow, com premiações totais de mais de US$ 100.000.
+
+      O Workshop e as atividades no Rio Smart Summit vai te preparar para o
+      nosso hackathon que vai do dia 10 a 26 de fevereiro!&#x20;
+
+
+      Quem sabe seu projeto não pode ser o próximo a ganhar o prêmio de melhor
+      experiência em dispositivos móveis ou o prêmio de Estenda o Ecossistema?
 
 
       Não perca esta oportunidade e venha se juntar a nós para uma jornada
