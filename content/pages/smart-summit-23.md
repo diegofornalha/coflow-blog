@@ -88,5 +88,5 @@ sections:
         textAlign: left
     subtitle: Boost Your Development Skills and Win Prizes in the Global Flow Hackathon
     subtitlePt: 'Smart Summit '
-    titlePt: unte-se ao Workshop de Integração do Flow no Rio
+    titlePt: unte-se ao Workshop de Integração do Flow no Rio Smart Summit
 ---
