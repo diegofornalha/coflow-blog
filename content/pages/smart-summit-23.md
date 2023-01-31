@@ -38,6 +38,9 @@ sections:
 
       Don't miss this opportunity and come join us for an amazing journey in the
       tech world with Flow!
+
+
+      Site: [smartsummit.com.br](smartsummit.com.br)
     textPt: >
       Vem se divertir e aprimorar suas habilidades de desenvolvimento com a
       gente no Workshop de Integração da Flow no Rio! Este é um evento incrível
