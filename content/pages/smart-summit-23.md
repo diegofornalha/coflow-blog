@@ -11,7 +11,7 @@ sections:
     colors: colors-d
     variant: variant-a
     title: 'Smart Summit '
-    titlePt: Ceci est une page vide
+    titlePt: 'Smart Summit '
     text: >-
       Start adding sections by clicking the + button on the page or through the
       sidebar.
