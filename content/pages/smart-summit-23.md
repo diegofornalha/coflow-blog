@@ -34,4 +34,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    subtitle: 'Smart Summit '
 ---
