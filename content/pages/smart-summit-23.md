@@ -50,7 +50,6 @@ sections:
       world of technology with Flow!
 
 
-
       **Agenda**
 
 
@@ -61,7 +60,7 @@ sections:
       Feb 02, 10:00-18:30
 
 
-      10:00 - 12:00 - OPENING Workshop
+      10:00 - 12:00 - **OPENING Workshop**
 
 
       Diego Fornalha
@@ -74,46 +73,43 @@ sections:
       Environment Configuration
 
 
-      12:00 - 14:30 Lunch
+      12:00 - 14:30 **Lunch**
 
 
-      14:30 -15:30 Workshop
+      14:30 - 15:30 Workshop
 
       Introduction to Cadence
 
       Flow Technical Ambassador
 
 
-      15:30 -How the Metaverse can boost your business
+      15:30 - **How the Metaverse can boost your business**
 
       Ney Neto, Country Lead Brazil Upland
 
 
-      16:00 -Crypto for people and businesses
+      16:00 - **Crypto for people and businesses**
 
 
       Thalles Freitas, CEO Bitso Brasil
 
 
-      16:30 - The impacts of Web3 on the fashion market
+      16:30 - **The impacts of Web3 on the fashion market**
 
 
       Founder e CEO Vexauthentics; Monica de Carvalho, Founder e CEO Love4u
       Academy
 
 
-      17:00-18:00 Learning
+      17:00 - 18:00 **Learning**
 
       Explanation of NBA Top Shot/NFL ALL DAY contracts
 
       Flow NFT Standard
 
-      18:00 - Invitation to the Global Flow Hackathon and DEMO DAY on 2/20
+      18:00 - **Invitation to the Global Flow Hackathon and DEMO DAY on 2/20**
 
-      18:30 - Networking
-
-
-
+      18:30 - **Networking**
 
 
       Website: [smartsummit.com.br](smartsummit.com.br)
