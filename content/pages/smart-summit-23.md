@@ -23,7 +23,6 @@ sections:
       you can win spectacular prizes.
 
 
-
       **So, do you want to participate only in the DEMO DAY?**
 
       No problem!
@@ -41,9 +40,10 @@ sections:
       best mobile device experience or the Extend the Ecosystem award?
 
 
-
       Don't miss this opportunity and come join us for an amazing journey in the
       world of technology with Flow!
+
+
 
       Website: [smartsummit.com.br](smartsummit.com.br)
     textPt: >
