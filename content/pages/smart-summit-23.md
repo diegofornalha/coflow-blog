@@ -58,6 +58,6 @@ sections:
         textAlign: left
       text:
         textAlign: left
-    subtitle: 'Smart Summit '
+    subtitle: Boost Your Development Skills and Win Prizes in the Global Flow Hackathon
     subtitlePt: 'Smart Summit '
 ---
