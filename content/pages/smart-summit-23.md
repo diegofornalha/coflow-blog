@@ -12,35 +12,40 @@ sections:
     variant: variant-a
     title: Join the Flow Integration Workshop in Rio Smart Summit
     text: >
-      Join the fun and sharpen your development skills with us at the Flow
-      Integration Workshop in Rio! This is an amazing event for national dev's,
-      with a whole week of learning and networking with Flow representatives and
-      ambassadors. On day 1, you'll get to dive into the technology and learn
-      everything about Flow implementation.
+      Come have fun and enhance your development skills with us at the Flow
+      Integration Workshop at the Rio Smart Summit! This is an amazing event for
+      national dev's, two days of learning and networking with representatives
+      and ambassadors of Flow. On day 1, you'll be able to enjoy a complete
+      immersion in technology and learn everything about Flow implementation.
+
+      Then it's just a matter of putting your hands to work and creating an
+      incredible project for a DEMO DAY that will take place on the 20th, where
+      you can win spectacular prizes.
 
 
-      Then it's time to get your hands dirty and create an amazing project for
-      the DEMO DAY on the 20th, where you can win spectacular prizes like
-      300USDC in the main award.
+
+      **So, do you want to participate only in the DEMO DAY?**
+
+      No problem!
+
+      But wait, there's more:
+
+      If you stand out at the Workshop, you have more chances to participate and
+      win the Flow Global Hackathon, with total prizes of over $100,000.
 
 
-      **And what if you only want to participate in the DEMO DAY?**
+      The Workshop and activities at the Rio Smart Summit will prepare you for
+      our hackathon that will take place from February 10th to 26th!
 
+      Who knows, maybe your project can be the next one to win the award for the
+      best mobile device experience or the Extend the Ecosystem award?
 
-      No problem, the content from day 1 will be made available online!
-
-      But wait, there's more: if you stand out at the Workshop, you can
-      participate in the Global Flow Hackathon, with total prizes of over US$
-      100,000, from February 10th to 26th! Who knows, your project could be the
-      next one to win the award for best mobile experience or the "Extend the
-      Ecosystem" award?
 
 
       Don't miss this opportunity and come join us for an amazing journey in the
-      tech world with Flow!
+      world of technology with Flow!
 
-
-      Site: [smartsummit.com.br](smartsummit.com.br)
+      Website: [smartsummit.com.br](smartsummit.com.br)
     textPt: >
       Vem se divertir e aprimorar suas habilidades de desenvolvimento com a
       gente no Workshop de Integração da Flow no Rio Smart Summit! Este é um
