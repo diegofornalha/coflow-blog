@@ -17,7 +17,7 @@ sections:
       Integration Workshop in Rio! This is an amazing event for national dev's,
       with a whole week of learning and networking with Flow representatives and
       ambassadors. On day 1, you'll get to dive into the technology and learn
-      everything about Flow implementation.&#x20;
+      everything about Flow implementation.
 
 
       Then it's time to get your hands dirty and create an amazing project for
