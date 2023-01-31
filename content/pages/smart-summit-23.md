@@ -78,7 +78,7 @@ sections:
       o Hackathon Global da Flow, com premiações totais de mais de US$ 100.000.
 
       O Workshop e as atividades no Rio Smart Summit vai te preparar para o
-      nosso hackathon que vai do dia 10 a 26 de fevereiro!&#x20;
+      nosso hackathon que vai do dia 10 a 26 de fevereiro!
 
 
       Quem sabe seu projeto não pode ser o próximo a ganhar o prêmio de melhor
