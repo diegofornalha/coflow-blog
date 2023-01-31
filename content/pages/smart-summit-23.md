@@ -61,7 +61,7 @@ sections:
       Sem problema!
 
 
-      Mas espera, tem mais:&#x20;
+      Mas espera, tem mais:
 
 
       Se você se destacar no Workshop, você tem mais chances participar e ganhar
