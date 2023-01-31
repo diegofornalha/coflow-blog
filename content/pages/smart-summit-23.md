@@ -11,7 +11,23 @@ sections:
     colors: colors-d
     variant: variant-a
     title: Join the Flow Integration Workshop in Rio Smart Summit
-    titlePt: 'Smart Summit '
+    titlePt: >-
+      Vem se divertir e aprimorar suas habilidades de desenvolvimento com a
+      gente no Workshop de Integração da Flow no Rio! Este é um evento incrível
+      para os dev's nacionais, com uma semana inteira de aprendizado e
+      networking com representantes e embaixadores da Flow. No dia 1º você vai
+      poder curtir uma imersão completa na tecnologia e aprender tudo sobre
+      implementação do Flow. Depois é só colocar a mão na massa e criar um
+      projeto incrível para a DEMO DAY no dia 20, onde você pode ganhar prêmios
+      espetaculares como 300USDC na premiação principal.E aí, você quer
+      participar apenas da DEMO DAY? Sem problema, o conteúdo do dia 1º será
+      disponibilizado online!Mas espera, tem mais: se você se destacar no
+      Workshop, você pode participar do Hackathon Global do Flow, com premiações
+      totais de mais de US$ 100.000, de 10 a 26 de fevereiro! Quem sabe seu
+      projeto não pode ser o próximo a ganhar o prêmio de melhor experiência em
+      dispositivos móveis ou o prêmio de "Estenda o Ecossistema"?Não perca esta
+      oportunidade e venha se juntar a nós para uma jornada incrível no mundo da
+      tecnologia com a Flow!
     text: >
       Join the fun and sharpen your development skills with us at the Flow
       Integration Workshop in Rio! This is an amazing event for national dev's,
