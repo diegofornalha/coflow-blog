@@ -10,7 +10,7 @@ sections:
   - type: TextSection
     colors: colors-d
     variant: variant-a
-    title: Join the Flow Integration Workshop in RioSmart Summit
+    title: Join the Flow Integration Workshop in Rio Smart Summit
     titlePt: 'Smart Summit '
     text: >
       Join the fun and sharpen your development skills with us at the Flow
