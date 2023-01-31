@@ -31,6 +31,8 @@ sections:
 
       No problem!
 
+
+
       But wait, there's more:
 
       If you stand out at the Workshop, you have more chances to participate and
