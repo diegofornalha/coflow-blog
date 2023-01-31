@@ -52,7 +52,7 @@ sections:
       evento incrível para os dev's nacionais, são dois dias de evento de muito
       aprendizado e networking com representantes e embaixadores da Flow. No dia
       1º você vai poder curtir uma imersão completa na tecnologia e aprender
-      tudo sobre implementação do Flow.&#x20;
+      tudo sobre implementação do Flow.
 
 
       Depois é só colocar a mão na massa e criar um projeto incrível para um
