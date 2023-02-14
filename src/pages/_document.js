@@ -4,7 +4,7 @@ import Script from 'next/script';
 export default function Document() {
     return (
         <Html lang='pt-BR'>
-            <
+            <Head
             <Head />
             <body>
                 <Main />
