@@ -5,8 +5,6 @@ export default function Document() {
     return (
  <Head>
         <Html lang='pt-BR'>
-
-
                
 <link rel="alternate" hreflang="pt" href="https://coflow.com.br">
 <link rel="alternate" hreflang="en" href="https://en.coflow.com.br">
