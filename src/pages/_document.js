@@ -3,8 +3,9 @@ import Script from 'next/script';
 
 export default function Document() {
     return (
+                    <Head>
         <Html lang='pt-BR'>
-            <Head>
+
 
                
 <link rel="alternate" hreflang="pt" href="https://coflow.com.br">
@@ -15,7 +16,7 @@ export default function Document() {
         api_key: 'wg_5764ae89f976da1ab84bcc66aa1f92526'
     });
 </script>
- 
+
             </Head>
 
             <body>
