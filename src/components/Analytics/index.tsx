@@ -5,7 +5,9 @@ const Analytics = () => {
 
     return (
         <>
-            <Script src="//receiver.posclick.dinamize.com/forms/js/319334_3832.js"/>
+            <Script 
+                async
+                src="//receiver.posclick.dinamize.com/forms/js/319334_3832.js"/>
 
             <Script
                 async
