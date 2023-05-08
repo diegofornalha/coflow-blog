@@ -5,8 +5,8 @@ const Analytics = () => {
 
     return (
         <>
-        <script src="//receiver.posclick.dinamize.com/forms/js/319334_3832.js"></script>
-        
+            <script src="//receiver.posclick.dinamize.com/forms/js/319334_3832.js"></script>
+
             <Script
                 async
                 src={`https://www.googletagmanager.com/gtag/js?id=G-GC2P2Z5BYT`}
